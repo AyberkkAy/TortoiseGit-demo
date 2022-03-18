@@ -1,2 +1,2 @@
 # TortoiseGit-demo
-demo repo
+demo repository
